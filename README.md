@@ -17,7 +17,7 @@ DBG ID Remote BIMA+ (3 Indonesia Provider Apps)
   <ul>
     <li><i>php dbgid_bima.php --login (create session login)</i></li>
     <li><i>php dbgid_bima.php --buy (get all AON and Hot Sale Pakcage then buy them)</i></li>
-    <li><i>php dbgid_bima.php --checkquota (check your available quota data and current available balance)</li></li>
+    <li><i>php dbgid_bima.php --checkquota (check available quota data and current available balance)</li></li>
     <li><b>For more info please type</b> <u>php dbgid_bima.php --help</u> (to see full help usage)</li>
     </ul>
   <br />
