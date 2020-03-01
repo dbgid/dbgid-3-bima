@@ -6,7 +6,7 @@ DBG ID Remote BIMA+ (3 Indonesia Provider Apps)
   <li>Device Emulator (Samsung)</li>
   <li>After Login Auto Save Config File As Json File</li>
   <li>Directly Check Quota And Balance</li>
-  <li>Get All AON Package And Hot Sale Package</li>
+  <li>Get All AON Package And Hot Sale Package And Buy Them</li>
   </ul>
   <br />
   
