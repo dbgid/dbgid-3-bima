@@ -12,7 +12,7 @@ DBG ID Remote BIMA+ (3 Indonesia Provider Apps)
   
   
   # Usage<br>
-  php dbgid_bima.php <option><br>
+  php dbgid_bima.php (option)<br>
   <b>Example:</b><br />
   <ul>
     <li><i>php dbgid_bima.php --login (create session login)</i></li>
